@@ -1,3 +1,9 @@
+# This is deprecated.
+
+It's been merged into kchmck's [vim-coffee-script][]; see https://github.com/kchmck/vim-coffee-script/blob/master/syntax/eco.vim
+
+[vim-coffee-script]: https://github.com/kchmck/vim-coffee-script
+
 # eco.vim
 
 This is a syntax file to provide vim support for sstephenson/eco.  Have fun!
